@@ -1,0 +1,14 @@
+# Site settings
+title: algorithms
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  my solution to various algorithm problems
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://algorithms.goyalankit.com" # the base hostname & protocol for your site
+twitter_username: _goyalankit
+github_username:  goyalankit
+
+excerpt_separator: "" # to handle highlight bug where a newline couses a highlight tag not closed error
+
+# Build settings
+markdown: kramdown
