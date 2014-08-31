@@ -3,9 +3,29 @@
 .site-title {
   font-family: Helvetica;
   font-weight: 400;
-  font-size: $base-font-size * 2.2;
+  font-size: $base-font-size * 2.5;
 }
 
 .post-content {
   font-size: 18px;
+}
+
+.post-title {
+  color: #000;
+  font-weight: 800;
+  font-size: 42px;
+}
+
+.post-link-heading {
+  margin-bottom: 0px;
+  font-size: $base-font-size * 1.85;
+}
+
+.post-meta.heading {
+  font-size: $base-font-size * 1.0;
+}
+
+.problem-box {
+  color: rgb(177, 67, 0);
+  margin-bottom: 25px;
 }

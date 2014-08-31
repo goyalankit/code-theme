@@ -1,9 +1,17 @@
 ---
 layout: post
 title:  "Swap using reference"
+comments: true
+categories:
 date:   2014-08-29 23:31:33
-categories: cpp, basic, pointers
 ---
+
+{% pr %}
+  Write a method to swap two integers passed by reference.
+{% endpr %}
+
+
+<!-- more -->
 {% highlight c++ %}
 #include <iostream>
 // swap using pointers
